@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
  * DO NOT TOUCH THIS FILE
  * !!!!!!!!!!!!!!!!!!!!!!
  */
-public final class QuizParser {
+public final class  QuizParser {
     /** Creates a new QuizParser. */
     public QuizParser() {
         // Nothing... maybe this will change in a future version of SuperQuiz?
