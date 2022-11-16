@@ -10,6 +10,7 @@ public class App {
     //           You can run this app on the command line with `gradlew.bat run` on Windows or `./gradlew run` on macOS and Linux.
 
     public static void main(String[] args) {
+        System.out.print("git_test");
     outer:
         while (true) {
             var scanner = new Scanner(System.in);
